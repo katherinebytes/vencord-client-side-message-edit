@@ -33,4 +33,4 @@ Load `dist/chromium-unpacked` as an unpacked Chrome extension, then enable
 
 ## License
 
-GPL-3.0-or-later.
+This project is released into the public domain under the Unlicense. See [LICENSE](LICENSE).

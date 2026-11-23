@@ -1,7 +1,5 @@
 /*
- * Vencord, a Discord client mod
- * Copyright (c) 2026 Vencord contributors
- * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-License-Identifier: Unlicense
  */
 
 import { NavContextMenuPatchCallback } from "@api/ContextMenu";
